@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: student-rpc-server  #rpc client根据此名称配置
+
+server:
+  servlet:
+    context-path: /
+  port: 9999
+
+#grpc server端暴露的端口
+grpc:
+  server:
+    port: 10005
+    max-connections: 100
+    max-inbound-message-size: 9155241000
+    package-max-inbound-message-size: 9155241000

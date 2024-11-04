@@ -1,0 +1,19 @@
+
+”	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓ¡€8£‡ó®¯2J$47da8df0-7ca7-4695-b071-18f0c6cd4a32
+¢
+java:S1488î"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~8¤‡ó®¯2J$6b1b177e-b245-4cba-b8e7-79787977fa80
+š	java:S1160"SRename this field "message_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ü‰¹úÿÿÿÿ8Ë‡ó®¯2J$4157b0f0-d04c-4605-8861-514f60a667c5
+¬
+java:S4144 "cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 508.(”¨‹ºüÿÿÿÿ8Ì‡ó®¯2J$e255bfe3-894f-4b5b-81e7-0567555692a4
+r
+java:S19480"*Make "message_" transient or serializable.(²Ü‰¹úÿÿÿÿ8Í‡ó®¯2J$1eae8533-a38f-485a-9cb8-bbb83b227b6a
+Ÿ
+java:S30770"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(²Ü‰¹úÿÿÿÿ8Ï‡ó®¯2J$dad28ad2-d986-451a-aee1-206fd77302f3
+„
+java:S1126ƒ"AReplace this if-then-else statement by a single return statement.(ûÿ½%8Ô‡ó®¯2J$06ac7a3b-3755-4cc2-a38e-64508e9e5a23
+˜	java:S116"URename this field "bitField0_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»³Ä8Ù‡ó®¯2J$af859e2d-1fd6-418a-9565-1bfe35ef2911
+›	java:S116Ÿ"SRename this field "message_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ«Ï‚úÿÿÿÿ8Ù‡ó®¯2J$2f6a25a3-031c-4b22-aac5-7d020d761c50
+œ
+java:S2975¿"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ8İ‡ó®¯2J$20410bfd-f9e5-49d9-9658-508d8d7cd35d
+„	java:S125”"<This block of commented-out lines of code should be removed.(““ùûÿÿÿÿ8â‡ó®¯2J$12a41698-4ee6-4bba-a8b3-7de3a14e9595
+	java:S125•"<This block of commented-out lines of code should be removed.(¯Ë¶‡8â‡ó®¯2J$dc17d0d2-0ffa-4f66-9e95-5f0cbb5f3cbd
